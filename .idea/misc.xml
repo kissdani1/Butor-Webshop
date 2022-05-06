@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/suli/mobilalkfejl/beadando/ButorWebshop/app/src/main/res/drawable/circle.xml" value="0.1" />
+        <entry key="..\:/suli/mobilalkfejl/beadando/ButorWebshop/app/src/main/res/drawable/ic_shopping_cart.xml" value="0.197" />
+        <entry key="..\:/suli/mobilalkfejl/beadando/ButorWebshop/app/src/main/res/drawable/ic_view_grid.xml" value="0.361" />
+        <entry key="..\:/suli/mobilalkfejl/beadando/ButorWebshop/app/src/main/res/drawable/ic_view_row.xml" value="0.361" />
+        <entry key="..\:/suli/mobilalkfejl/beadando/ButorWebshop/app/src/main/res/layout-land/activity_main.xml" value="0.25" />
+        <entry key="..\:/suli/mobilalkfejl/beadando/ButorWebshop/app/src/main/res/layout-land/activity_register.xml" value="0.33" />
+        <entry key="..\:/suli/mobilalkfejl/beadando/ButorWebshop/app/src/main/res/layout-land/list_item.xml" value="0.20282186948853614" />
+        <entry key="..\:/suli/mobilalkfejl/beadando/ButorWebshop/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.275" />
+        <entry key="..\:/suli/mobilalkfejl/beadando/ButorWebshop/app/src/main/res/layout-sw600dp/activity_register.xml" value="0.1421875" />
+        <entry key="..\:/suli/mobilalkfejl/beadando/ButorWebshop/app/src/main/res/layout-sw600dp/list_item.xml" value="0.275" />
+        <entry key="..\:/suli/mobilalkfejl/beadando/ButorWebshop/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/suli/mobilalkfejl/beadando/ButorWebshop/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/suli/mobilalkfejl/beadando/ButorWebshop/app/src/main/res/layout/activity_shop_list.xml" value="0.33" />
+        <entry key="..\:/suli/mobilalkfejl/beadando/ButorWebshop/app/src/main/res/layout/custon_menu_item.xml" value="0.1" />
+        <entry key="..\:/suli/mobilalkfejl/beadando/ButorWebshop/app/src/main/res/layout/list_item.xml" value="0.33" />
+        <entry key="..\:/suli/mobilalkfejl/beadando/ButorWebshop/app/src/main/res/menu/shop_list_menu.xml" value="0.16" />
+        <entry key="..\:/suli/mobilalkfejl/beadando/ButorWebshop/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.196" />
+        <entry key="..\:/suli/mobilalkfejl/beadando/ButorWebshop/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.196" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
