@@ -7,7 +7,7 @@ https://mega.nz/file/vjBmAQJJ#YeOo2V8yGKHP9swrSDumWaIQrXOAIr2AqMABJAVbCjE
 
 kis segítség a javításhoz
 
-| Elem | érték |
+| Pontozási szempont | hintek |
 | --- | --- |
 | Fordítási hiba nincs | nincs |
 | Futtatási hiba nincs | nincs |
