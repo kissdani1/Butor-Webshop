@@ -23,3 +23,5 @@ kis segítség a javításhoz
 | Notification, alarm manager használata | `NotificationHandler` `AlarmReceiver` `ShopListActivity` például: időközönként feldobált értesítések |
 | CRUD műveletek | `RandomAsyncTask`, `RandomAsyncTaskLoader`, `ShopListActivity`-ben pl.: `deleteItem()`, `queryData()`, `updateAlertIcon()`, `initializeData()`  |
 | 2 komplex firestore lekérdezés | ShopListActivity `queryData()` rendezés, limitálás |
+
+Ha bármilyen kérdésed van discordon megtalálsz: DnL#0381
